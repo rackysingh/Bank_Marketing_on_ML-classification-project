@@ -1,1 +1,1 @@
-# Bank_Marketing_on_ML-classification-project
+# Bank-marketing-effectiveness-project
